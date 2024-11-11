@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(209, 245, 8);
     background: black;
     margin: 0px;
 }
@@ -29,4 +29,8 @@ h1 {
 
 p {
     font-size: 20px;
+}
+
+footer {
+    color: rgb(42, 122, 228);
 }
